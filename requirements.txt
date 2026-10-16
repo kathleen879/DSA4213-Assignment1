@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+gensim
+scikit-learn
+pandas  
+numpy
+matplotlib
+tqdm
