@@ -34,6 +34,3 @@ This repository contains the complete implementation and evaluation pipeline for
     ```powershell
     python -m scripts.run_part3
 
-
-
-
